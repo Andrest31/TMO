@@ -18,4 +18,4 @@
 
 ## НИР
 
-- [Рубежный контроль №2](https://github.com/Andrest31/TMO/blob/main/rk2/RK2.pdf)
+- [НИР](https://github.com/Andrest31/TMO/blob/main/%D0%9D%D0%98%D0%A0/Readme.md)
