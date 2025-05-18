@@ -15,3 +15,7 @@
 
 - [Рубежный контроль №1](https://github.com/Andrest31/TMO/blob/main/rk1/RK1.pdf)
 - [Рубежный контроль №2](https://github.com/Andrest31/TMO/blob/main/rk2/RK2.pdf)
+
+## НИР
+
+- [Рубежный контроль №2](https://github.com/Andrest31/TMO/blob/main/rk2/RK2.pdf)
